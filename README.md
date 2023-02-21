@@ -1,5 +1,5 @@
 # Deep-Learning-Projects
-This repository holds various architecture codes in Pytorch. For all the implementations, the related analysis on accuracies and losses and understanding of hyperparameters can be viewed from the Python Notebook called "main.ipynb".
+This repository holds various architecture codes in Pytorch. For all the implementations, the related analysis on accuracies and losses and understanding of hyperparameters can be viewed from the Python Notebook called `main.ipynb`.
 
 ## MLP
 The multi-layer perceptron is coded in Pytorch from scratch. We can extend the number of layers of this model by passing the number of neurons in the list. The code is placed in `mlp.py` file.
